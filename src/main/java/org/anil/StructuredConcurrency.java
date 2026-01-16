@@ -5,7 +5,6 @@ import java.util.concurrent.StructuredTaskScope;
 public class StructuredConcurrency {
     public static void main(String[] args) throws InterruptedException {
 
-
         // seller data
         // seller score
         // combine
